@@ -26,6 +26,11 @@ function say() {
     console.log("Hi from Function");
 }
 
+function hi() {
+    console.log("my name is function");
+}
+hi();   
+hi();
 
 say();
 say();
