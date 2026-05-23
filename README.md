@@ -5,8 +5,11 @@ Learning Playwright - end-to-end testing with JavaScript.
 ## Chapters
 
 - **Chapter 1**: JavaScript Basics (variables, functions, loops, Node.js setup)
-- **Chapter 2**: JavaScript Concepts *(coming soon)*
-- **Chapter 3**: Identifiers & Literals *(coming soon)*
+- **Chapter 2**: JavaScript Concepts (JS basics, identifiers, comments)
+- **Chapter 3**: Identifiers & Literals (identifier rules, comments, keyboard shortcuts)
+- **Chapter 4**: JavaScript Basics (var, let, const, functions, hoisting, scope)
+- **Chapter 5**: Literals (null, undefined, number, string, template literals)
+- **Chapter 6**: Operators (arithmetic, comparison, logical, string concatenation, nullish)
 
 ## Getting Started
 
