@@ -10,6 +10,10 @@ Learning Playwright - end-to-end testing with JavaScript.
 - **Chapter 4**: JavaScript Basics (var, let, const, functions, hoisting, scope)
 - **Chapter 5**: Literals (null, undefined, number, string, template literals)
 - **Chapter 6**: Operators (arithmetic, comparison, logical, string concatenation, nullish)
+- **Chapter 7**: If Else (conditional statements, if-else, else-if)
+- **Chapter 8**: Switch Statement (switch-case, grouping, interview questions)
+- **Chapter 9**: User Input (prompt-sync, Node.js readline)
+- **Chapter 10**: Loops (for, while, do-while, interview questions)
 
 ## Getting Started
 
