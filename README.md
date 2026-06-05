@@ -14,7 +14,10 @@ Learning Playwright - end-to-end testing with JavaScript.
 - **Chapter 8**: Switch Statement (switch-case, grouping, interview questions)
 - **Chapter 9**: User Input (prompt-sync, Node.js readline)
 - **Chapter 10**: Loops (for, while, do-while, interview questions)
-- **Chapter 11**: Arrays (creating, accessing, adding/removing, searching, iterating, transforming)
+- **Chapter 11**: Arrays (creating, accessing, adding/removing, searching, iterating, transforming, slicing, concat)
+- **Chapter 12**: Functions (types, expressions, arrow, IIFE, params, scope, closure, higher-order, pure functions)
+- **Chapter 13**: Strings (properties, search, substring, transform, cheat sheet)
+- **Chapter 14**: Objects (creation, real examples, primitive vs reference, functions, destructuring, spread, get/set)
 
 ## Getting Started
 
