@@ -18,6 +18,8 @@ Learning Playwright - end-to-end testing with JavaScript.
 - **Chapter 12**: Functions (types, expressions, arrow, IIFE, params, scope, closure, higher-order, pure functions)
 - **Chapter 13**: Strings (properties, search, substring, transform, cheat sheet)
 - **Chapter 14**: Objects (creation, real examples, primitive vs reference, functions, destructuring, spread, get/set)
+- **Chapter 15**: 2D Array (multi-dimensional arrays, real examples, array functions, patterns)
+- **Chapter 16**: Callback (callback functions, sync/async, callback hell, parameters, return)
 
 ## Getting Started
 
